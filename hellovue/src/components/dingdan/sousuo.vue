@@ -6,7 +6,7 @@
                     <h3>
                         <span class="fl fa fa-angle-left" @click="back()"></span>
                         <strong>订单查询</strong>
-                    </h3>
+                    </h3>  
                 </el-col>
             </el-row>
         </div>
