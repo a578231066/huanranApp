@@ -5,7 +5,7 @@
             <div class="for">
                 <el-form-item v-for="(item,i) in title" :key="i" :label="item.name" :prop="item.prop">
                     <el-input v-model="ruleForm[item.model]" :placeholder="item.placeholder"></el-input>
-                </el-form-item>
+                </el-form-item>  
                 <el-form-item label="开始时间">
                     <el-col :span="24">
                         <el-date-picker type="date"  v-model="ruleForm.date1" placeholder="2017-06-21" style="width: 100%;"></el-date-picker>
