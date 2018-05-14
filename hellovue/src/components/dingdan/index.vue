@@ -5,7 +5,7 @@
             <el-badge :value="12" class="item fr">
                 <el-button size="small"><img src="../../images/headerFr.png" class="fr" alt=""></el-button>
             </el-badge>
-            </h3>
+            </h3>  
         </el-header>
         <div class="main">
             <tab></tab>
