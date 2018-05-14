@@ -8,7 +8,7 @@
                         <div :class="'grid-content '+item.class">
                             <i :class="item.icon"></i>
                             <p>{{item.name}}</p>
-                        </div>
+                        </div>   
                     </router-link>
                 </el-col>
             </el-row>
