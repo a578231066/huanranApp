@@ -8,7 +8,7 @@
             <el-tab-pane label="待配送" name="third">待配送</el-tab-pane>
             <el-tab-pane label="库存盘点" name="fourth">库存盘点</el-tab-pane>
             <el-tab-pane label="记录" name="记录">记录</el-tab-pane>
-        </el-tabs>
+        </el-tabs> 
     </div>
 </template>
 
