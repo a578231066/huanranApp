@@ -27,7 +27,7 @@
         </el-form>
     </div>
 </template>
-
+  
 <script>
 export default {
     name: 'main',
