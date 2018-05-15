@@ -1,6 +1,6 @@
 <template>
     <div id="xiaoshou">
-        <!-- 搜索 -->
+        <!-- 搜索 -->  
         <div class="sousuo">
             <el-row>
                 <el-col v-for="(item, i) in mainTop" :key="i" :span="12">
