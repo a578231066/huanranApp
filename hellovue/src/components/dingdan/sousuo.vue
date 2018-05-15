@@ -1,7 +1,7 @@
 <template>
     <div id="sss">
         <div class="header">
-            <el-row>
+            <el-row>  
                 <el-col :span="24">
                     <h3>
                         <span class="fl fa fa-angle-left" @click="back()"></span>
