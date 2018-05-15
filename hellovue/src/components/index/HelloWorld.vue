@@ -20,7 +20,7 @@
     </el-container>
   </div>
 </template>
-
+  
 <script>
 // 引入
 import banner from "./banner"
