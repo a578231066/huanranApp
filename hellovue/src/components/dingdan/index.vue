@@ -15,7 +15,7 @@
         </footer>
     </div>
 </template>
-
+  
 <script>
 import tab from './tab'
 export default {
