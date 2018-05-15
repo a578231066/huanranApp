@@ -25,7 +25,7 @@ export default {
         }
     }
 }
-
+  
 const imgDatas = [
   {
     link: 'orderAddition',
