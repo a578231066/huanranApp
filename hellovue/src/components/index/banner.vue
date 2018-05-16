@@ -13,7 +13,7 @@
       @touchstart="startDrag"
       @touchmove="onDrag"
       @touchend="stopDrag"
-    >  
+    >   
       <li
         v-for="(el,i) in imgDatas" :key="i"
         :style="{width:`calc(100% / ${len})`}"
