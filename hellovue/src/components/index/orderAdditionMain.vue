@@ -34,7 +34,7 @@ export default {
         }
     }
 }
-
+  
 const main = [
     {
         title: '商品清单',
