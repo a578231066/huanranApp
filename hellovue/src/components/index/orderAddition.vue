@@ -15,7 +15,7 @@
         </div>
     </div>
 </template>
-
+  
 <script>
 import orderMain from './orderAdditionMain'
 export default {
