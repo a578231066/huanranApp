@@ -30,7 +30,7 @@ export default {
     }
 }
 </script>
-
+  
 <style rel="stylesheet" type="text/css">
 #orderDetail h3{
     height: 60px;
