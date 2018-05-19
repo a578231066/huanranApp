@@ -16,7 +16,7 @@
         </div>
     </div>
 </template>
-  
+    
 <script>
 import pinpaiDown from './sousuo'
  import pinpaiMain from './pinpaiMain'
