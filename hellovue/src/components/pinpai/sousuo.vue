@@ -18,7 +18,7 @@ export default {
   }
 }
 </script>
-  
+    
 <style rel="stylesheet" type="text/css">
 #sousuo{
     width: 100%;
