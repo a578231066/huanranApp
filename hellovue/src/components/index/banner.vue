@@ -1,5 +1,5 @@
 <!-- 轮播 -->
-<template>
+<template>  
   <section :class="$style.wrap">
     <ul
       :class="{
