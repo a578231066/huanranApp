@@ -15,7 +15,7 @@
     </div>
 
 </template>
-  
+
 <script>
 export default {
     name: 'mainDown',
@@ -25,7 +25,7 @@ export default {
         }
     }
 }
-  
+
 const imgDatas = [
   {
     link: 'orderAddition',
