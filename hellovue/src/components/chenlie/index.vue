@@ -6,7 +6,7 @@
                     <el-button size="small"><img src="../../images/headerFr.png" class="fr" alt=""></el-button>
                 </el-badge>
             </h3>
-        </div>  
+        </div>    
         <kucun-main></kucun-main>
         <footer>
             <my-footer></my-footer>
