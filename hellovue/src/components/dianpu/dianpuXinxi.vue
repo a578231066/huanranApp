@@ -13,7 +13,6 @@
         <xinxi-main></xinxi-main>
     </div>
 </template>
-  
 <script>
 import xinxiMain from './xinxiMain'
 export default {
