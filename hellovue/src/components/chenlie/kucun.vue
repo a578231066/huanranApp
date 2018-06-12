@@ -6,7 +6,7 @@
                    <i class="el-icon-goods"></i>
                    {{item.title}}
                 </template>
-                <ul>   
+                <ul>     
                     <li>品牌名称：{{item.mingcheng}}</li>
                     <li>商品名称：{{item.shangpin}}</li>
                     <li>颜色：{{item.color}}</li>
