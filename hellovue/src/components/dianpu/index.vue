@@ -33,7 +33,7 @@ export default {
     }
 }    
 </script>
-
+  
 <style rel="stylesheet" type="text/css">
 #dianpuShezhi .header h3{
     height: 60px;
