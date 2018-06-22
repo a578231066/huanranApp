@@ -13,7 +13,6 @@
         </footer>
     </div>
 </template>
-  
 <script>
 import kucunMain from './kucunMain'
 export default {
