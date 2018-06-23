@@ -13,7 +13,6 @@
         <shezhi-main></shezhi-main>
     </div>
 </template>
-
 <script>
 import shezhiMain from './dianpuMain'
 export default {
