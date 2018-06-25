@@ -11,7 +11,7 @@
         </el-tabs> 
     </div>
 </template>
-   
+
 <script>
 import kucun from './kucun'
 export default {
