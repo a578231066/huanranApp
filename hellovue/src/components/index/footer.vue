@@ -1,5 +1,5 @@
 <!-- 底部 -->
-<template>
+<template>  
   <div id="footer">
     <!-- <ul>
       <router-link  v-for="(item,footer) in nav" :to="item.link" :key="item.link">
