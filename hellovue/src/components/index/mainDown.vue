@@ -10,10 +10,8 @@
             </router-link>
         </el-row>
         <div class="kong">
-
         </div>
     </div>
-
 </template>
 
 <script>
