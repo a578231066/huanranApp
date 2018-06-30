@@ -15,7 +15,7 @@
         </div>
     </div>
 </template>
-
+  
 <script>
 import sousuoMain from './sousuoMain'
 export default {
