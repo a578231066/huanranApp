@@ -20,7 +20,7 @@
         <p class="down">支付金额：<span class="red">￥100.00</span><el-button type="danger" class="fr">操作<i class="fr el-icon-arrow-up"></i></el-button></p>
     </div>
 </template>
-  
+
 <script>
 export default {
     name: 'zhifuMain'
