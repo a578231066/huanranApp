@@ -10,7 +10,7 @@
         </el-row>
   </div>
 </template>
-  
+
 <script>
 import orderMain from './orderDetailsMain'
 export default {
