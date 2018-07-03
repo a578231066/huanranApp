@@ -14,7 +14,7 @@
         <zhifu-main></zhifu-main>
     </div>
 </template>
-
+  
 <script>
 import zhifuMain from './zhifuMain'
 export default {
