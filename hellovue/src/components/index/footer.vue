@@ -22,7 +22,7 @@
       </el-col>
   </div>
 </template>
-
+  
 <script>
 import 'element-ui/lib/theme-chalk/index.css';
 export default {
