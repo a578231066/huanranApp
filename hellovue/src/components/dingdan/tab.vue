@@ -9,7 +9,7 @@
         </el-tabs>
     </div>
 </template>
-
+  
 <script>
 import xiaoshou from './one'
 export default {
