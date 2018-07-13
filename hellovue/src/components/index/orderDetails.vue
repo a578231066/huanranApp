@@ -8,7 +8,7 @@
         </div>
   </div>
 </template>
-  
+
 <script>
 import orderHeader from './orderHeader'
 import orderMain from './orderDetailsMain'
