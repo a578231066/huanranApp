@@ -11,7 +11,7 @@
         <my-footer></my-footer>
     </div>
 </template>
-
+ 
 <script>
 import gerenNav from './gerenNav'
 export default {
