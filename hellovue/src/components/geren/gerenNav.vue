@@ -11,7 +11,7 @@
         <p v-for="(item,j) in telephone" :key="j"><i :class="item.icon"></i>{{item.title}} {{item.phone}} <i class="fr el-icon-arrow-right"></i></p>
     </div>
 </template>
- 
+   
 <script>
 export default {
     name: 'nav',
