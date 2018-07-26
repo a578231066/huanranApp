@@ -40,7 +40,7 @@
     </ul>
   </section>
 </template>
-
+ 
 <script>
 const imgDatas = [
   {
