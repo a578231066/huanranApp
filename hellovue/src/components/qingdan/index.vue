@@ -18,7 +18,7 @@
         </div>
     </div>
 </template>
-
+ 
 <script>
 import qingdanMain from './qingdanMain'
 export default {
