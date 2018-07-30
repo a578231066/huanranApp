@@ -20,7 +20,7 @@
         </el-collapse>
     </div>
 </template>
- 
+
 <script>
 export default {
     name: 'kucun',
